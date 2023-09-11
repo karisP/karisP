@@ -1,4 +1,4 @@
-### Hi there 👋
+![Pink and Peach Technology LinkedIn Banner](https://github.com/karisP/karisP/assets/42557377/3b6d2023-137f-41fb-be5f-6b28bfe8f072)
 
 <!--
 **karisP/karisP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
