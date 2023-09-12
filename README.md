@@ -11,6 +11,16 @@ Check out my blog: [The Precise Dev](https://www.linkedin.com/in/karissaphillips
 - 💬 Ask me about my experience with coding bootcamp & mentoring a coding bootcamp student.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/karissaphillips/)
 - ⚡ Fun fact: I was a ballet instructor before getting into tech. 🩰
+- 🔮 We will be friends quickly if you're a fan of:
+  
+  <img src="https://cdn.europosters.eu/image/1300/posters/harry-potter-philosopher-s-stone-i104639.jpg" width="200" height="300"/>
+  <img src="https://pics.filmaffinity.com/Avatar_The_Last_Airbender_TV_Series-118276707-large.jpg" width="200" height="300" />
+  <img src="https://flxt.tmsimg.com/assets/p16749713_b_v9_ak.jpg" width="200" height="300" />
+  <img src="https://www.themoviedb.org/t/p/original/8oCqMlKKomCArVtyOjRzMN6g40Z.jpg" width="200" height="300" />
 
+---
+🧰 Toolbox
 
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="50" height="50" /><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="50" height="50" />
 
+---
